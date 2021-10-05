@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michellemyers94
 - 👀 I’m interested in music, photography, and tech!
-- 🌱 I’m currently learning python, svelte, and programming in general. 
+- 🌱 I’m currently learning python, svelte, and mysql.
 - 💞️ I’m looking to collaborate on socially impactful projects.
 - 📫 How to reach me ... https://michellemyers.link
 
